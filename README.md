@@ -7,7 +7,7 @@
 
 Things we work on
 
-    Python
-    Artificial Intelligence 
-    Machine Learning
-    Data Science
+- Python
+- Artificial Intelligence 
+- Machine Learning
+- Data Science

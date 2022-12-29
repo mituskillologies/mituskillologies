@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[LinkedIN
+We are professional on [LinkedIN
 ](https://www.linkedin.com/company/mitu-skillologies/)     
 
-[YouTube](https://youtube.com/mITUSkillologies)
+We teach on [YouTube](https://youtube.com/mITUSkillologies)
 
 Things we work on
 

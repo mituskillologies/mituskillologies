@@ -19,4 +19,4 @@ Things we work on
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitu-skillologies&show_icons=true&locale=en&layout=compact" alt="mitu-skillologies" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakti2509&show_icons=true&locale=en" alt="mitu-skillologies" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitu-skillologies&show_icons=true&locale=en" alt="mitu-skillologies" /></p>

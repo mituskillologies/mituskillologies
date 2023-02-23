@@ -5,6 +5,7 @@ We are professional on [LinkedIN
 ](https://www.linkedin.com/company/mitu-skillologies/)     
 
 We teach on [YouTube](https://youtube.com/mITUSkillologies)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitu-skillologies" alt="mitu-skillologies" /></a> </p>
 
 Things we work on
 

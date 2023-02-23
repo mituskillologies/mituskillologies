@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakti2509&label=Profile%20views&color=0e75b6&style=flat" alt="mitu-skillologies" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakti2509&label=Profile%20views&color=0e75b6&style=flat" alt="mituskillologies" /> </p>
 ### Hi there 👋
 <h3 align="center">We are a team of Artificial Intelligence Technocrats</h3>
 
@@ -17,6 +17,6 @@ Things we work on
 - Data Science
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?show_icons=true&locale=en&layout=compact" alt="mitu-skillologies" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mituskillologies&show_icons=true&locale=en&layout=compact" alt="mituskillologies" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitu-skillologies&show_icons=true&locale=en" alt="mitu-skillologies" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mituskillologies&show_icons=true&locale=en" alt="mituskillologies" /></p>

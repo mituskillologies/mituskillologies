@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mituskillologies&label=Profile%20views&color=0e75b6&style=flat" alt="mituskillologies" /> </p>
-### Hi there 👋
+<h1 align="center">Hi 👋, Welcome to MITU Skillologies!</h1>
 <h3 align="center">We are a team of Artificial Intelligence Technocrats</h3>
 
 We are professional on [LinkedIN

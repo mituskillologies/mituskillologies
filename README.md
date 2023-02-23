@@ -17,6 +17,6 @@ Things we work on
 - Data Science
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitu-skillologies&show_icons=true&locale=en&layout=compact" alt="mitu-skillologies" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?show_icons=true&locale=en&layout=compact" alt="mitu-skillologies" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitu-skillologies&show_icons=true&locale=en" alt="mitu-skillologies" /></p>
